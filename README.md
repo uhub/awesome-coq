@@ -702,3 +702,4 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [BlackSpirit96/digital_design](https://github.com/BlackSpirit96/digital_design) - my digital design exercises
 * [Barbichu/signdet](https://github.com/Barbichu/signdet) - Sign determination for CAD
 * [B-Rich/foundations](https://github.com/B-Rich/foundations) - My answers to the exercises given by Software Foundations (http://www.cis.upenn.edu/~bcpierce/sf/)
+* [the-lambda-church/coquille](https://github.com/the-lambda-church/coquille) -  Plugin that brings the interactivity of CoqIDE/ProofGeneral to Vim
