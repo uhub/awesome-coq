@@ -2,7 +2,7 @@
 
 A curated list of awesome Coq frameworks, libraries and software.
 
-* [AbsInt/CompCert](https://github.com/AbsInt/CompCert) - The CompCert C verified compiler
+* [AbsInt/CompCert](https://github.com/AbsInt/CompCert) - The CompCert formally-verified C compiler
 * [uwplse/verdi](https://github.com/uwplse/verdi) - A framework for formally verifying distributed systems implementations in Coq
 * [UniMath/UniMath](https://github.com/UniMath/UniMath) - This coq library aims to formalize a substantial body of mathematics using the univalent point of view.
 * [vladimirias/Foundations](https://github.com/vladimirias/Foundations) - Development of the univalent foundations of mathematics in Coq
@@ -14,10 +14,10 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [jwiegley/category-theory](https://github.com/jwiegley/category-theory) - A formalization of category theory in Coq for personal study
 * [math-classes/math-classes](https://github.com/math-classes/math-classes) - A library of abstract interfaces for mathematical structures in Coq.
 * [coq-concurrency/pluto](https://github.com/coq-concurrency/pluto) - A web server written in Coq.
-* [c-corn/corn](https://github.com/c-corn/corn) - Coq Repository at Nijmegen
 * [QuickChick/QuickChick](https://github.com/QuickChick/QuickChick) - Randomized Property-Based Testing Plugin for Coq
-* [cmeiklejohn/distributed-data-structures](https://github.com/cmeiklejohn/distributed-data-structures) - Distributed Data Structures in Coq
+* [c-corn/corn](https://github.com/c-corn/corn) - Coq Repository at Nijmegen
 * [DDCSF/iron](https://github.com/DDCSF/iron) - Coq formalizations of functional languages.
+* [cmeiklejohn/distributed-data-structures](https://github.com/cmeiklejohn/distributed-data-structures) - Distributed Data Structures in Coq
 * [coq-ext-lib/coq-ext-lib](https://github.com/coq-ext-lib/coq-ext-lib) - A library of Coq definitions, theorems, and tactics.
 * [pirapira/evmverif](https://github.com/pirapira/evmverif) - An EVM code verification framework in Coq
 * [pi8027/lambda-calculus](https://github.com/pi8027/lambda-calculus) - A Formalization of Typed and Untyped λ-Calculi in SSReflect-Coq and Agda2
@@ -30,26 +30,29 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [finrod/System-T](https://github.com/finrod/System-T) - Formalisation of Goedel's System T in Coq
 * [pa-ba/calc-comp](https://github.com/pa-ba/calc-comp) - Coq proofs for the paper "Calculating Correct Compilers"
 * [coq-ext-lib/coq-compile](https://github.com/coq-ext-lib/coq-compile) - A compiler for Coq
+* [andrejbauer/dedekind-reals](https://github.com/andrejbauer/dedekind-reals) - A formalization of the Dedekind reals in Coq
 * [vrahli/NuprlInCoq](https://github.com/vrahli/NuprlInCoq) - Implementation of Nuprl's type theory in Coq
 * [cmeiklejohn/vvclocks](https://github.com/cmeiklejohn/vvclocks) - Verified vector clocks, with Coq!
-* [andrejbauer/dedekind-reals](https://github.com/andrejbauer/dedekind-reals) - A formalization of the Dedekind reals in Coq
 * [GeoCoq/GeoCoq](https://github.com/GeoCoq/GeoCoq) - A formalization of geometry in Coq based on Tarski's axiom system
+* [uwplse/verdi-raft](https://github.com/uwplse/verdi-raft) - An implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework
 * [tebbi/autosubst](https://github.com/tebbi/autosubst) - Automation for de Bruijn syntax and substitution in Coq
 * [nbenton/coqdomains](https://github.com/nbenton/coqdomains) - Domain theory and denotational semantics in Coq
+* [LukeXuan/sf](https://github.com/LukeXuan/sf) - My solution to the software foundation
 * [CertiKOS/coqrel](https://github.com/CertiKOS/coqrel) - Binary logical relations library for the Coq proof assistant
 * [acowley/LinearLogic](https://github.com/acowley/LinearLogic) - A simple development of linear logic in Coq.
-* [uwplse/verdi-raft](https://github.com/uwplse/verdi-raft) - An implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework
 * [snu-sf/promising-coq](https://github.com/snu-sf/promising-coq) - The Coq development of A Promising Semantics for Relaxed-Memory Concurrency
 * [reynir/Brainfuck](https://github.com/reynir/Brainfuck) - Brainfuck formalized in Coq
 * [haklabbeograd/software-foundations-coq-workshop](https://github.com/haklabbeograd/software-foundations-coq-workshop) - Materijal za radionicu Coq-a prema kursu "Software foundations" (CIS 500) Benjamina Piercea
+* [coq-io/system](https://github.com/coq-io/system) - System effects for Coq.
 * [CoqEAL/CoqEAL](https://github.com/CoqEAL/CoqEAL) - CoqEAL -- The Coq Effective Algebra Library
 * [coq-contribs/coq-in-coq](https://github.com/coq-contribs/coq-in-coq) - A formalisation of the Calculus of Constructions
 * [bacam/coqjvm](https://github.com/bacam/coqjvm) - Coq executable semantics and resource verifier
 * [tmiya/coq](https://github.com/tmiya/coq) - My Coq codes
-* [hephaestus-pl/coqfj](https://github.com/hephaestus-pl/coqfj) - A mechanized proof of type safety of Featherweight Java using Coq
-* [coq-io/system](https://github.com/coq-io/system) - System effects for Coq.
+* [hephaestus-pl/coqfj](https://github.com/hephaestus-pl/coqfj) - A mechanized proof of type safety for Featherweight Java using Coq
 * [bobatkey/system-f-parametricity-model](https://github.com/bobatkey/system-f-parametricity-model) - A Model of Relationally Parametric System F in Coq
 * [ilyasergey/pnp](https://github.com/ilyasergey/pnp) - Lecture notes for a short course on proving/programming in Coq via SSReflect.
+* [hypotext/linear-logic](https://github.com/hypotext/linear-logic) - An encoding of linear logic in Coq with minimal Sokoban and blocks world examples
+* [DistributedComponents/disel](https://github.com/DistributedComponents/disel) - Distributed Separation Logic: a framework for compositional verification of distributed protocols and their implementations.
 * [damien-pous/relation-algebra](https://github.com/damien-pous/relation-algebra) - Relation algebra library for Coq
 * [thoughtpolice/coq-skeleton](https://github.com/thoughtpolice/coq-skeleton) - A simple skeleton for Coq projects
 * [tabareau/Cocasse](https://github.com/tabareau/Cocasse) - A library for Gradual Certified Programming in Coq
@@ -62,7 +65,6 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [kalfazed/Coq---Programming-Language](https://github.com/kalfazed/Coq---Programming-Language) - Haskell函数式编程的代码实例以及教程
 * [julbinb/concept-params](https://github.com/julbinb/concept-params) - Coq formalization of "concept parameters" for "generic" programming in STLC
 * [JasonGross/coq-tactics](https://github.com/JasonGross/coq-tactics) - Collection of tactics I've found useful in Coq
-* [hypotext/linear-logic](https://github.com/hypotext/linear-logic) - An encoding of linear logic in Coq with minimal Sokoban and blocks world examples
 * [gmalecha/mirror-shard](https://github.com/gmalecha/mirror-shard) - Reflective verification procedures for separation logic programs in Coq
 * [gangtan/CPUmodels](https://github.com/gangtan/CPUmodels) - GoNative project: formal machines models in Coq
 * [dschepler/coq-sequent-calculus](https://github.com/dschepler/coq-sequent-calculus) - Coq formalizations of Sequent Calculus, Natural Deduction, etc. systems for propositional logic
@@ -72,9 +74,11 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [SkySkimmer/HoTT-algebra](https://github.com/SkySkimmer/HoTT-algebra) - Coq formalisation of algebra in Homotopy Type Theory
 * [kendroe/CoqPIE](https://github.com/kendroe/CoqPIE) - CoqPIE (an IDE for the Coq theorem prover + PEDANTIC)
 * [finrod/Refocusing](https://github.com/finrod/Refocusing) - A formalisation of the refocusing transformation by Danvy et al. in Coq
+* [dschepler/coq-topology](https://github.com/dschepler/coq-topology) - Topology library for Coq
 * [bmsherman/topology](https://github.com/bmsherman/topology) - Formal topology (and some probability) in Coq
 * [yoshihiro503/coqQuickCheck](https://github.com/yoshihiro503/coqQuickCheck) - QuickCheck for Coq
 * [wrengr/coq-wrengr-util](https://github.com/wrengr/coq-wrengr-util) - Tactics, utility lemmas, and relation combinators for Coq
+* [vlopezj/coq-course](https://github.com/vlopezj/coq-course) - Coq course at Chalmers CSE
 * [tm507211/CoqPerceptron](https://github.com/tm507211/CoqPerceptron) - Verified Coq Implementation of the Perceptron Algorithm
 * [tangentforks/FourColorTheorem](https://github.com/tangentforks/FourColorTheorem) - Gonthier's formal proof of the 4-color theorem, in Coq.
 * [sftypes/software-foundations](https://github.com/sftypes/software-foundations) - Coq proofs of exercises in Pierce's book
@@ -99,6 +103,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [rodrigogribeiro/unification](https://github.com/rodrigogribeiro/unification) - Formalisation of a type unification algorithm in Coq proof assistant.
 * [QuentinFiard/CoqCertifiedCompiler](https://github.com/QuentinFiard/CoqCertifiedCompiler) - A compiler for a very simple language, certified in Coq
 * [qnighy/IPC-Coq](https://github.com/qnighy/IPC-Coq) - Intuitionistic Propositional Calculus
+* [mukeshtiwari/Coq](https://github.com/mukeshtiwari/Coq) - Coq codes
 * [mit-plv/stencils](https://github.com/mit-plv/stencils) - A Coq library for verifying dependencies of stencil implementations
 * [martijnvermaat/infinitary-rewriting-coq](https://github.com/martijnvermaat/infinitary-rewriting-coq) - Infinitary Rewriting in Coq
 * [jpdeplaix/coq-playground](https://github.com/jpdeplaix/coq-playground) - Playing with Coq…
@@ -109,8 +114,9 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [gmalecha/coq-markov](https://github.com/gmalecha/coq-markov) - Exploring probabilistic programming in Coq
 * [fsmith1024/scales](https://github.com/fsmith1024/scales) - Formalization in Coq of recreational puzzles involving scales.
 * [Ekdohibs/coq-proofs](https://github.com/Ekdohibs/coq-proofs) - Various proofs in coq
-* [dschepler/coq-topology](https://github.com/dschepler/coq-topology) - Topology library for Coq
+* [coq-io/hello-world](https://github.com/coq-io/hello-world) - A Hello World program in Coq.
 * [CoqHott/coq-forcing](https://github.com/CoqHott/coq-forcing) - A plugin for Coq that implements the call-by-name forcing translation
+* [clarus/coq-atm](https://github.com/clarus/coq-atm) - A verified ATM program in Coq.
 * [bmsherman/finite](https://github.com/bmsherman/finite) - Facts about isomorphisms and finite types in Coq
 * [aspiwack/cosa](https://github.com/aspiwack/cosa) - A thing about Coq-verified Shape Analysis
 * [arthuraa/cufp-2015-tutorial](https://github.com/arthuraa/cufp-2015-tutorial) - An introductory tutorial for the Coq proof assistant.
@@ -120,7 +126,6 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [YeongjinOh/Programming-language](https://github.com/YeongjinOh/Programming-language) - Coq practice
 * [wilcoxjay/tactics](https://github.com/wilcoxjay/tactics) - some Coq tactics I've found useful
 * [wilcoxjay/miniprl-coq](https://github.com/wilcoxjay/miniprl-coq) - A port of MiniPRL to Coq
-* [vlopezj/coq-course](https://github.com/vlopezj/coq-course) - Coq course at Chalmers CSE
 * [txyyss/Formal-Mathematics](https://github.com/txyyss/Formal-Mathematics) - Mathematics in Coq
 * [thery/Plouffe](https://github.com/thery/Plouffe) - Computing Pi decimal using Plouffe Formula in Coq
 * [tchajed/goedel-t](https://github.com/tchajed/goedel-t) - Formalization of termination of Gödel's System T
@@ -130,7 +135,6 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [pnwamk/strands](https://github.com/pnwamk/strands) - Embedding strand spaces in Coq and working to verify correctness and other properties.
 * [pilki/cases](https://github.com/pilki/cases) - A bit more than the (S*)Case tactics in Coq
 * [nhojem/Coq-Polyhedra](https://github.com/nhojem/Coq-Polyhedra) - Formalizing convex polyhedra in Coq/SSReflect
-* [mukeshtiwari/Coq](https://github.com/mukeshtiwari/Coq) - Coq codes
 * [mmcco/verified-parser-example](https://github.com/mmcco/verified-parser-example) - A minimal example of a formally verified parser using ocamllex and Menhir's Coq backend.
 * [michaelsproul/dblib-linear](https://github.com/michaelsproul/dblib-linear) - Formalisation of the linear lambda calculus in Coq
 * [matthewhill/asm.js-coq](https://github.com/matthewhill/asm.js-coq) - Towards a mechanised metatheory of asm.js in Coq.
@@ -144,14 +148,16 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [jesper-bengtson/Java](https://github.com/jesper-bengtson/Java) - A model of Java in Coq based on the Charge! framework.
 * [GaloisInc/formal-rcv](https://github.com/GaloisInc/formal-rcv) - Some formalized developments of ranked-choice and instant-runoff voting schemes in Coq
 * [domdere/haskell-coq](https://github.com/domdere/haskell-coq) - Common Haskell type classes written up in the Coq (GALLINA) theorem prover language for proving properties about Haskell data types and functions [Coq]
+* [DistributedComponents/InfSeqExt](https://github.com/DistributedComponents/InfSeqExt) - A Coq library for reasoning (co)inductively on infinite sequences using LTL-like modal operators
 * [coq-io/opam-website](https://github.com/coq-io/opam-website) - Generation of a sample Coq website for OPAM
 * [coq-io/lwt](https://github.com/coq-io/lwt) - Lwt back-end for Coq.io.
-* [coq-io/hello-world](https://github.com/coq-io/hello-world) - A Hello World program in Coq.
+* [CoqHott/coq-effects](https://github.com/CoqHott/coq-effects) - A program translation implementing self-algebraic effects in Coq.
 * [beta-ziliani/mtac-plugin](https://github.com/beta-ziliani/mtac-plugin) - Plugin for Coq 8.5
 * [benediktahrens/monads](https://github.com/benediktahrens/monads) - Coq code accompanying several articles on semantics of functional programming languages
 * [aspiwack/finset](https://github.com/aspiwack/finset) - A Coq library for extensional finite sets and comprehension
 * [Zeimer/CoqCat](https://github.com/Zeimer/CoqCat) - Formalization of Category Theory in Coq.
 * [wangpengmit/ssmatrix-theory](https://github.com/wangpengmit/ssmatrix-theory) - Coq formalization of matrix differentiation
+* [uwplse/cheerios](https://github.com/uwplse/cheerios) - Formally verified Coq serialization library
 * [trefis/deques](https://github.com/trefis/deques) - TRE: a Coq implementation of Tarjan & Kaplan "Real-Time Deques with Catenation"
 * [tchajed/coq-tricks](https://github.com/tchajed/coq-tricks) - Tricks you wish the Coq manual told you
 * [tchajed/cardinality](https://github.com/tchajed/cardinality) - Reasoning about finite type cardinality in Coq
@@ -165,6 +171,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [relrod/ct](https://github.com/relrod/ct) - My attempt to better understand both Coq and Category Theory by formalizing the latter in the former.
 * [quephird/software-foundations](https://github.com/quephird/software-foundations) - Example code and solutions to exercises for the Software Foundations textbook using Coq
 * [Ptival/ynot](https://github.com/Ptival/ynot) - Harvard's Ynot: http://ynot.cs.harvard.edu/ - One branch per Coq version which needed changes
+* [prg-titech/CertSkel](https://github.com/prg-titech/CertSkel) - A Formally Verified Skeleton-based DSL for GPGPU in Coq
 * [pilki/PilkiLib](https://github.com/pilki/PilkiLib) - My general purpose coq library
 * [PierreLescanne/DependentTypesForExtensiveGames](https://github.com/PierreLescanne/DependentTypesForExtensiveGames) - In this repository I present a Coq developement of extensive games using dependent types, together with examples
 * [phillipm/cps-from-stlc-to-sysf](https://github.com/phillipm/cps-from-stlc-to-sysf) - Modeling a CPS translation from STLC to System F in Coq using Locally Nameless
@@ -204,15 +211,16 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [eddywestbrook/uniform-lr](https://github.com/eddywestbrook/uniform-lr) - Coq formalization of uniform logical relations
 * [DistributedComponents/verdi-chord](https://github.com/DistributedComponents/verdi-chord) - An implementation of the Chord lookup protocol verified in Coq using the Verdi framework
 * [DistributedComponents/verdi-aggregation](https://github.com/DistributedComponents/verdi-aggregation) - An implementation of a distributed aggregation protocol, verified in Coq using the Verdi framework
-* [DistributedComponents/InfSeqExt](https://github.com/DistributedComponents/InfSeqExt) - InfSeqExt is a Coq library for reasoning (co)inductively on infinite sequences using LTL-like operators
 * [dboulytchev/direct-curry-howard](https://github.com/dboulytchev/direct-curry-howard) - A set of samples to utilize Curry-Howard isomorphism in a direct manner (in Coq)
 * [dasuxullebt/deflate](https://github.com/dasuxullebt/deflate) - Deflate in Coq
 * [danielgerigk/Sudoku](https://github.com/danielgerigk/Sudoku) - A (yet unfinished) Sudoku solver in Coq
 * [csvoss/coqingbird](https://github.com/csvoss/coqingbird) - To Mock a Mockingbird, formalized in Coq
 * [coq-io/experiments](https://github.com/coq-io/experiments) - Experiments with Coq effects.
 * [coq-io/checker](https://github.com/coq-io/checker) - Automatic checker for lock-free concurrent programs in Coq.
-* [CoqHott/coq-effects](https://github.com/CoqHott/coq-effects) - A program translation implementing self-algebraic effects in Coq.
+* [coq-contribs/pi-calc](https://github.com/coq-contribs/pi-calc) - Pi-calculus in Coq
 * [coq-contribs/micromega](https://github.com/coq-contribs/micromega) - Micromega is a Coq reflexive tactic for a fragment of integer arithmetics.
+* [coq-contribs/lesniewski-mereology](https://github.com/coq-contribs/lesniewski-mereology) - LesniewskiMereology is a Coq library created by R. Dapoigny and P. Barlatier whose purpose is to implement the alternative to Set Theory of Stanislaw Lesniewski. It is part of an on-going project using the Coq language and called KDTL (Knowledge-based Dependently Typed Language) to build an alternative to Description Logics. The developed theory is close to the analysis of Denis Mieville (1984) in his book "Un developpement des systemes logiques de Stanislaw Lesniewski". It is a theoretical construct which relies on three dependent levels, logic (a.k.a. Protothetic), the Lesniewski Ontologie (LO) and mereology. Each level incorporates a minimal collection of axioms, protothetic and ontologic definitions and a set of theorems together with their intuitionist proofs.
+* [coq-contribs/lambek](https://github.com/coq-contribs/lambek) - A Coq Toolkit for Lambek Calculus
 * [coq-contribs/hoare-tut](https://github.com/coq-contribs/hoare-tut) - A Tutorial on Reflecting in Coq the generation of Hoare proof obligations
 * [clarus/coq-cunit](https://github.com/clarus/coq-cunit) - Convenience functions for unit testing in Coq.
 * [cimbriano/mtocoq](https://github.com/cimbriano/mtocoq) - Coq Formalization of Memory Trace Oblivious Execution
@@ -222,6 +230,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [artagnon/proofsauce](https://github.com/artagnon/proofsauce) - Experiments in Coq
 * [archontophoenix/LambdaWithClosuresProof](https://github.com/archontophoenix/LambdaWithClosuresProof) - A statement in Coq (and proof?) of the idea that executing the untyped lambda calculus with closures behaves equivalently to the usual term-rewriting mechanism.
 * [archontophoenix/ConwaysLife](https://github.com/archontophoenix/ConwaysLife) - Provably correct implementation of Conway's Game of Life in Coq
+* [AndriyLin/XLTSO](https://github.com/AndriyLin/XLTSO) - PL + Coq + Concurrency + Relaxed Memory Models, excellent project for me!
 * [andrejbauer/lvr-coq](https://github.com/andrejbauer/lvr-coq) - Coq related material for the Logic in computer science course
 * [amosr/clustering-proof](https://github.com/amosr/clustering-proof) - Coq proofs of validity of ILP clustering algorithm
 * [zunction/Coqy](https://github.com/zunction/Coqy) - All my Coq stuff lives here.
@@ -232,9 +241,10 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [yurrriq/learning-coq](https://github.com/yurrriq/learning-coq) - :notebook: My notes as I learn Coq.
 * [y-taka-23/tppmark2015](https://github.com/y-taka-23/tppmark2015) - TPP Mark 2015 - Formalization of Propositional Logic on Coq
 * [ystael/sf](https://github.com/ystael/sf) - Exercises from Software Foundations, in Coq and Agda
+* [youqad/Coq_Project](https://github.com/youqad/Coq_Project) - Coq Project at ENS Paris-Saclay
 * [yoshihiro503/coq_propositional_logic](https://github.com/yoshihiro503/coq_propositional_logic) - Definition of minimum normalform on propositional logic
 * [yh-kyoto/Coq](https://github.com/yh-kyoto/Coq) - Software Foundations(Benjamin C. Pierce) : http://www.cis.upenn.edu/~bcpierce/sf/current/index.html について。
-* [yhamoudi/Coq-Omniscience](https://github.com/yhamoudi/Coq-Omniscience) - Proofs related to the notion of omniscience using Coq
+* [ybertot/pi-agm](https://github.com/ybertot/pi-agm) - A formal description in Coq of computations of PI using arithmetic-geometric means
 * [YamaTomoGit/tempCoq](https://github.com/YamaTomoGit/tempCoq) - coq
 * [wvhulle/Instrumentele-Wiskunde](https://github.com/wvhulle/Instrumentele-Wiskunde) - Bewijzen schrijven in Coq of Agda
 * [wtonribeiro/nominal-ac](https://github.com/wtonribeiro/nominal-ac) - A Formalisation (in Coq) of Nominal Equivalence with Associative and Commutative Function Symbols
@@ -277,6 +287,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [skeuchel/metatheory](https://github.com/skeuchel/metatheory) - Formal Metatheory in Coq
 * [SimonBoulier/ModelStructure-HTS](https://github.com/SimonBoulier/ModelStructure-HTS) - formalization of model structures in Homotopy Type System (in Coq)
 * [siddharthist/coq-typeclass-hierarchy](https://github.com/siddharthist/coq-typeclass-hierarchy) - A full-featured hierarchy of typeclasses for functional programming in Coq
+* [siddharthist/coq-big-o](https://github.com/siddharthist/coq-big-o) - A flexible yet easy-to-use formalization of Big O, Big Theta, and more based on seminormed vector spaces.
 * [shirataki/sfja-coq](https://github.com/shirataki/sfja-coq) - Software Fonudations (ja)
 * [shengfeng/Sofrware-Foundation2014](https://github.com/shengfeng/Sofrware-Foundation2014) - Coq for formal method
 * [shayan-najd/CoqProjects](https://github.com/shayan-najd/CoqProjects) - Some random code that I write in Coq goes here
@@ -299,6 +310,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [robbertkrebbers/moessner](https://github.com/robbertkrebbers/moessner) - Coq formalization of moessner's theorem using coinduction
 * [Rijndael9/COQ](https://github.com/Rijndael9/COQ) - Gallina lang
 * [rightfold/coqfun](https://github.com/rightfold/coqfun) - Fun with Coq.
+* [reveriel/coq](https://github.com/reveriel/coq) - Some code written in coq
 * [reservoirlabs/rcoqlib](https://github.com/reservoirlabs/rcoqlib) - R-CoqLib: general-purpose Coq libraries and tactics
 * [Remjez/Network_calculus_coq](https://github.com/Remjez/Network_calculus_coq) - Formalization of some theorems of network calculus.
 * [relrod/mpc-coq](https://github.com/relrod/mpc-coq) - attempt at a verified monadic parser combinator library in coq
@@ -308,7 +320,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [rabimba/coq](https://github.com/rabimba/coq) - My Experiments with coq
 * [qnighy/T23](https://github.com/qnighy/T23) - Coq+ssreflect implementation of 2-3 Tree
 * [qnighy/LType-Coq](https://github.com/qnighy/LType-Coq) - Linear Logic Toy for Coq
-* [qnighy/build-coq-cross](https://github.com/qnighy/build-coq-cross) - cross-compile Coq for Windows in Linux.
+* [QGarchery/coq](https://github.com/QGarchery/coq) - Premiers pas en coq
 * [pvanderbilt/coq-lang-playarea](https://github.com/pvanderbilt/coq-lang-playarea) - STLC in Coq extended with a sound big-step semantics, functions as closures and records as lists.
 * [Ptival/coq-misc](https://github.com/Ptival/coq-misc) - Miscellaneous stuff in Coq
 * [psjyothiprasad/Software-Modelling---Theorem-Provers---Program-Verification---Cryptography](https://github.com/psjyothiprasad/Software-Modelling---Theorem-Provers---Program-Verification---Cryptography) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs. Typical applications include the certification of properties of programming languages (e.g. the CompCert compiler certification project, or the Bedrock verified low-level programming library), the formalization of mathematics (e.g. the full formalization of the Feit-Thompson theorem or homotopy type theory) and teaching.
@@ -327,6 +339,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [pa-ba/McCarthy-Painter](https://github.com/pa-ba/McCarthy-Painter) - Coq proof for the paper "Compiling a Fifty Year Journey"
 * [pa-ba/graph-comp](https://github.com/pa-ba/graph-comp) - Coq proofs for the paper "Proving Correctness of Compilers Using Structured Graphs"
 * [pa-ba/calc-comp-rel](https://github.com/pa-ba/calc-comp-rel) - Coq proofs for the paper "Calculating Certified Compilers for Non-Deterministic Languages"
+* [olydis/GradVer](https://github.com/olydis/GradVer) - used Coq 8.5pl1
 * [o-da/ElgotMonads](https://github.com/o-da/ElgotMonads) - Coq Proofs for Elgot Monads
 * [oconnor0/learn-coq](https://github.com/oconnor0/learn-coq) - Learning Coq via Software Foundations (http://www.cis.upenn.edu/~bcpierce/sf/)
 * [nvasilakis/Noq](https://github.com/nvasilakis/Noq) - Nock Specification in Coq
@@ -341,6 +354,8 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [mukeshtiwari/coq-graph](https://github.com/mukeshtiwari/coq-graph) - This is coq graph library taken from graph-basics.
 * [mpu/sane](https://github.com/mpu/sane) - A clean description of amortized analysis for imperative languages in Coq.
 * [moritanon/Coq2014](https://github.com/moritanon/Coq2014) - Coq演習2014
+* [molikto/PLTExercises](https://github.com/molikto/PLTExercises) - Coq code
+* [models-team/FeatherweightVML_Coq](https://github.com/models-team/FeatherweightVML_Coq) - Formalization of Featherweight VML in Coq
 * [MitchellBuckley/Parity-Complexes](https://github.com/MitchellBuckley/Parity-Complexes) - Formal verification of the material in Parity Complexes by Ross Street (coded in Coq).
 * [MiloDavis/verified-sorts](https://github.com/MiloDavis/verified-sorts) - Messing around with formally verifying sorting algorithms in coq
 * [mgree/navdifc](https://github.com/mgree/navdifc) - Coq proofs from "All your IFCException Are Belong To Us"
@@ -353,6 +368,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [mchouza/learning-coq](https://github.com/mchouza/learning-coq) - It's a repository of Coq exercises.
 * [mcanog/ntccForm](https://github.com/mcanog/ntccForm) - Formalization of an ntcc proof system in coq
 * [mbrcknl/coq-fight-2016](https://github.com/mbrcknl/coq-fight-2016) - Lemmas for the 2016 FP-Syd Coq Fight
+* [marshall-lee/software_foundations_old2](https://github.com/marshall-lee/software_foundations_old2) - [DEPRECATED] My solutions to Software Foundations course in Coq proof assistant.
 * [marshall-lee/software_foundations_old](https://github.com/marshall-lee/software_foundations_old) - [DEPRECATED] My solutions to Software Foundations course in Coq proof assistant.
 * [marshall-lee/software_foundations](https://github.com/marshall-lee/software_foundations) - My solutions to Software Foundations course in Coq proof assistant.
 * [MarisaKirisame/CompCoq](https://github.com/MarisaKirisame/CompCoq) - Coq, with computational complexity
@@ -371,6 +387,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [larsr/coqparam](https://github.com/larsr/coqparam) - Keller and Lasson's CoqParam library http://www.lix.polytechnique.fr/~keller/Recherche/coqparam.html
 * [larsr/coindsem](https://github.com/larsr/coindsem) - Port of http://gallium.inria.fr/~xleroy/coindsem/ to Coq 8.6
 * [ku-sldg/coalgebras](https://github.com/ku-sldg/coalgebras) - Initial experiments with coalgebraic specification in Coq and Haskell
+* [krishnagopinath/SeparationLogic](https://github.com/krishnagopinath/SeparationLogic) - a system that helps formally verify the correctness of concurrent programs, integrated into a toy programming language called Imp.
 * [KostiaChardonnet/coq-proofs](https://github.com/KostiaChardonnet/coq-proofs) - Just some Coq proofs. This project was made for educational and personal purposes only
 * [koba-e964/coqworks](https://github.com/koba-e964/coqworks) - Coq Programs
 * [kmiya/software_foundations](https://github.com/kmiya/software_foundations) - Some solutions of exercises of Software Foundations in Coq
@@ -378,6 +395,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [KePcA/LVR-insertion_sort](https://github.com/KePcA/LVR-insertion_sort) - Proofs of correctness for insertion insertion_sort algorithm in coq.
 * [kavigupta/ct4s-examples](https://github.com/kavigupta/ct4s-examples) - A Coq Implementation following David I. Spivak's book Category Theory For Scientists
 * [kallol26/coq-galois-theory](https://github.com/kallol26/coq-galois-theory) - Automatically exported from code.google.com/p/coq-galois-theory
+* [kalhauge/tacoq](https://github.com/kalhauge/tacoq) - Tactics  for coq... ready to be copy-pasted!
 * [k27c8ff627uxz/IMath](https://github.com/k27c8ff627uxz/IMath) - The coq code of the mathematics under Intuitionistic Zermelo–Fraenkel set theory.
 * [jxwr/coq-exercise](https://github.com/jxwr/coq-exercise) - coq exercises
 * [jtassarotti/tarski-hsap](https://github.com/jtassarotti/tarski-hsap) - Formalization of Tarski's High School Algebra Problem in Coq
@@ -403,7 +421,6 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [jamesdabbs/coq](https://github.com/jamesdabbs/coq) - Playing around with proof assistants
 * [jalpuim/disjoint-polymorphism](https://github.com/jalpuim/disjoint-polymorphism) - Supplementary material for the paper Disjoint Polymorphism, namely the Coq proofs.
 * [izgzhen/sl-tut-iris](https://github.com/izgzhen/sl-tut-iris) - Interactive Separation Logic Tutorial with Coq and Iris
-* [istinspring/coq_experiments](https://github.com/istinspring/coq_experiments) - Experiments with Coq.
 * [input-output-hk/qeditas-theory](https://github.com/input-output-hk/qeditas-theory) - Coq code formalizing a theory corresponding to Qeditas
 * [input-output-hk/qeditas-ledgertheory](https://github.com/input-output-hk/qeditas-ledgertheory) - Coq development of a theory of lightweight cryptographic ledgers
 * [input-output-hk/qeditas-cryptohash](https://github.com/input-output-hk/qeditas-cryptohash) - Coq code demonstrating a method for representing and reasoning about idealized cryptographic hashing functions
@@ -413,6 +430,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [hubbards/STLC-Coq](https://github.com/hubbards/STLC-Coq) - Simply typed lambda calculus in Coq
 * [hubbards/FCC-Coq](https://github.com/hubbards/FCC-Coq) - Formula choice calculus in Coq
 * [hpbrown92/Coq-Solutions](https://github.com/hpbrown92/Coq-Solutions) - My work in Coq (A functional programming language)
+* [hgoldstein95/zf](https://github.com/hgoldstein95/zf) - ZF Set Theory in Coq
 * [haochenx/tapl-coq](https://github.com/haochenx/tapl-coq) - TAPL in Coq
 * [haochenx/classical-analysis](https://github.com/haochenx/classical-analysis) - Classical Analysis in Coq
 * [gvesna/LVR-coq](https://github.com/gvesna/LVR-coq) - Vaje za coq
@@ -440,8 +458,10 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [ezrakilty/sn-stlc-de-bruijn-coq](https://github.com/ezrakilty/sn-stlc-de-bruijn-coq) - Strong Normalization for Simply-Typed Lambda-Calculus with de Bruijn indices in Coq
 * [Everysick/coq_exercise](https://github.com/Everysick/coq_exercise) - http://qnighy.github.io/coqex2014/
 * [eternalNight/coq-category](https://github.com/eternalNight/coq-category) - A personal attempt to formalize category theory in The Joy of Cat using Coq
+* [Esum/CoqProofs](https://github.com/Esum/CoqProofs) - Various proofs in Coq.
 * [esilkensen/coq](https://github.com/esilkensen/coq) - Coq playground
 * [erutuf/nfreasoning](https://github.com/erutuf/nfreasoning) - An automated equational reasoning library for Coq
+* [erikmd/tryjscoq](https://github.com/erikmd/tryjscoq) - Try Coq in your browser using jsCoq
 * [epa095/noetherian-implies-streamless](https://github.com/epa095/noetherian-implies-streamless) - We provide two Coq proofs that noetherian implies streamless, one proof uses equality, the other is expressible withouth equality.
 * [epa095/funKanPowCounterModel-coq](https://github.com/epa095/funKanPowCounterModel-coq) - A Coq formalization of a countermodel to claim that the Kan property of simplicial sets are preserved under exponentiation constructively.
 * [engboris/term-rewriting](https://github.com/engboris/term-rewriting) - Study and proofs of abstract term rewriting with Coq
@@ -458,13 +478,17 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [eholk/coq-stlc](https://github.com/eholk/coq-stlc) - Proof of type safety for Simply Typed Lambda Calculus in Coq.
 * [Echogene/Oilar](https://github.com/Echogene/Oilar) - My playground for Coq definitions and proofs
 * [ebtaleb/6502Coq](https://github.com/ebtaleb/6502Coq) - A 6502 CPU formalization with Coq
-* [dricketts/coq-control-theory](https://github.com/dricketts/coq-control-theory) - Formalization of some results from control theory in Coq
+* [dstechenko/homework](https://github.com/dstechenko/homework) - :file_folder: Solved assignments
+* [dricketts/barrier-sampled-data](https://github.com/dricketts/barrier-sampled-data) - Formalization of some results from control theory in Coq
 * [domdere/software-foundations-coq](https://github.com/domdere/software-foundations-coq) - My Code along with Software Foundations [Coq]
+* [dogonthehorizon/coq_practice](https://github.com/dogonthehorizon/coq_practice) - Selected solutions and notes from various Coq learning resources.
 * [DmxLarchey/Quicksort-in-Coq-for-students](https://github.com/DmxLarchey/Quicksort-in-Coq-for-students) - Sujet de TP pour le Master 1 info de l'UL 2014-15
 * [dmrpereira/RGCoq](https://github.com/dmrpereira/RGCoq) - Coq development of a Rely-Guarantee proof system
 * [dmoon1221/sf](https://github.com/dmoon1221/sf) - Learning Coq via Software Foundations
+* [DKXXXL/LamC](https://github.com/DKXXXL/LamC) - A Coq Implement STLC, most code copied from 'Software Foundations'
 * [DKXXXL/CA](https://github.com/DKXXXL/CA) - Coq'Art
-* [DistributedComponents/verdi-lockserv](https://github.com/DistributedComponents/verdi-lockserv) - An implementation of a simple lock server, verified in Coq using the Verdi framework
+* [DistributedComponents/verdi-lockserv](https://github.com/DistributedComponents/verdi-lockserv) - An implementation of a simple asynchronous lock server, verified in Coq using the Verdi framework
+* [DistributedComponents/verdi-cheerios](https://github.com/DistributedComponents/verdi-cheerios) - A verified system transformer for serialization of Verdi systems using the Cheerios library.
 * [dillonhuff/IExpr](https://github.com/dillonhuff/IExpr) - Another experiment with Coq
 * [dillonhuff/Bit](https://github.com/dillonhuff/Bit) - A tiny experiment with Coq
 * [dgendill/Coq-Learning](https://github.com/dgendill/Coq-Learning) - Misc files when learning coq.  Docker environment for using opam with coq
@@ -488,9 +512,6 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [coq-contribs/zfc](https://github.com/coq-contribs/zfc) - An encoding of Zermelo-Fraenkel Set Theory in Coq
 * [coq-contribs/string](https://github.com/coq-contribs/string) - Definition of strings in Coq
 * [coq-contribs/prfx](https://github.com/coq-contribs/prfx) - Proof Reflection in Coq
-* [coq-contribs/pi-calc](https://github.com/coq-contribs/pi-calc) - Pi-calculus in Coq
-* [coq-contribs/lesniewski-mereology](https://github.com/coq-contribs/lesniewski-mereology) - LesniewskiMereology is a Coq library created by R. Dapoigny and P. Barlatier whose purpose is to implement the alternative to Set Theory of Stanislaw Lesniewski. It is part of an on-going project using the Coq language and called KDTL (Knowledge-based Dependently Typed Language) to build an alternative to Description Logics. The developed theory is close to the analysis of Denis Mieville (1984) in his book "Un developpement des systemes logiques de Stanislaw Lesniewski". It is a theoretical construct which relies on three dependent levels, logic (a.k.a. Protothetic), the Lesniewski Ontologie (LO) and mereology. Each level incorporates a minimal collection of axioms, protothetic and ontologic definitions and a set of theorems together with their intuitionist proofs.
-* [coq-contribs/lambek](https://github.com/coq-contribs/lambek) - A Coq Toolkit for Lambek Calculus
 * [coq-contribs/izf](https://github.com/coq-contribs/izf) - Intuitionistic Zermelo-Fraenkel Set Theory in Coq
 * [coq-contribs/graph-basics](https://github.com/coq-contribs/graph-basics) - a Coq toolkit for graph theory
 * [coq-contribs/exceptions](https://github.com/coq-contribs/exceptions) - Pro{gramm,v}ing with continuations: a development in Coq
@@ -506,7 +527,6 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [clarus/coq-transducer](https://github.com/clarus/coq-transducer) - Experiments on tranducers.
 * [clarus/coq-monad-plugin](https://github.com/clarus/coq-monad-plugin) - A Coq plugin to write monadic code naturally.
 * [clarus/coq-monad](https://github.com/clarus/coq-monad) - A basic definition of monads.
-* [clarus/coq-list-string](https://github.com/clarus/coq-list-string) - Strings implemented as lists.
 * [clarus/coq-list-plus](https://github.com/clarus/coq-list-plus) - More functions on lists.
 * [clarus/coq-labelled-containers](https://github.com/clarus/coq-labelled-containers) - Some experiments.
 * [clarus/coq-iterable](https://github.com/clarus/coq-iterable) - Generic definition of iterators.
@@ -519,7 +539,6 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [clarus/coq-extraction-big-int](https://github.com/clarus/coq-extraction-big-int) - Interface to native OCaml big integers.
 * [clarus/coq-error-handlers](https://github.com/clarus/coq-error-handlers) - Simple and robust error handling functions.
 * [clarus/coq-breakable-computations](https://github.com/clarus/coq-breakable-computations) - Breakable computations.
-* [clarus/coq-atm](https://github.com/clarus/coq-atm) - A verified ATM program in Coq.
 * [clarus/concurrent-computations](https://github.com/clarus/concurrent-computations) - A definition of concurrent computations in Coq.
 * [christian-marie/tapl-coq](https://github.com/christian-marie/tapl-coq) - COQ proofs for some TAPLs
 * [Chobbes/Groq](https://github.com/Chobbes/Groq) - My experiments with group theory while learning Coq!
@@ -548,7 +567,6 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [archbung/coq-playground](https://github.com/archbung/coq-playground) - Miscellaneous Coq scripts
 * [AntonMilenin/CoqBook](https://github.com/AntonMilenin/CoqBook) - Test solution for http://www.cis.upenn.edu/~bcpierce/sf/deps.html
 * [anonaka/Coq](https://github.com/anonaka/Coq) - Coq programs
-* [AndriyLin/XLTSO](https://github.com/AndriyLin/XLTSO) - PL + Coq + Concurrency + Relaxed Memory Models, excellent project for me!
 * [andrewkatis/Coq](https://github.com/andrewkatis/Coq) - Formalizations and Theorem proofs
 * [anderslundstedt/pca-realizability](https://github.com/anderslundstedt/pca-realizability) - Partial combinatory algebras and realizability interpretations of arithmetic, in Coq.
 * [andersk/coq-surreal](https://github.com/andersk/coq-surreal) - Surreal numbers in Coq
@@ -566,7 +584,13 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [adnelson/coq-practice](https://github.com/adnelson/coq-practice) - Random coq scripts.
 * [Admasnd/formalverif](https://github.com/Admasnd/formalverif) - Examples of formal verification within Coq
 * [aaronwinter/stack-compiler](https://github.com/aaronwinter/stack-compiler) - A basic "stack" compiler in Coq
+* [5HT/co](https://github.com/5HT/co) - CoInductive Shell in Coq
 * [0x00-pl/hello_coq](https://github.com/0x00-pl/hello_coq) - hello Coq world
+* [yhamoudi/Coq-Omniscience](https://github.com/yhamoudi/Coq-Omniscience) - Proofs related to the notion of omniscience using Coq
+* [qnighy/build-coq-cross](https://github.com/qnighy/build-coq-cross) - cross-compile Coq for Windows in Linux.
+* [istinspring/coq_experiments](https://github.com/istinspring/coq_experiments) - Experiments with Coq.
+* [dricketts/coq-control-theory](https://github.com/dricketts/coq-control-theory) - Formalization of some results from control theory in Coq
+* [clarus/coq-list-string](https://github.com/clarus/coq-list-string) - Strings implemented as lists.
 * [mcopes73/TFA](https://github.com/mcopes73/TFA) - Certificación de un algoritmo de descomposición factorial en Isabelle/HOL Isar y en Coq. Demostración formal del Teorema Fundamental de la Aritmética.
 * [Barbichu/spectral](https://github.com/Barbichu/spectral) - Spectral Theorem formalized in Coq (Draft)
 * [uwdb/Cosette](https://github.com/uwdb/Cosette) - Cosette is an automated SQL solver powered by Coq and Rosette.
