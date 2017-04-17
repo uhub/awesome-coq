@@ -18,3 +18,11 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [QuickChick/QuickChick](https://github.com/QuickChick/QuickChick) - Randomized Property-Based Testing Plugin for Coq
 * [DDCSF/iron](https://github.com/DDCSF/iron) - Coq formalizations of functional languages.
 * [cmeiklejohn/distributed-data-structures](https://github.com/cmeiklejohn/distributed-data-structures) - Distributed Data Structures in Coq
+* [coq-ext-lib/coq-ext-lib](https://github.com/coq-ext-lib/coq-ext-lib) - A library of Coq definitions, theorems, and tactics.
+* [pirapira/evmverif](https://github.com/pirapira/evmverif) - An EVM code verification framework in Coq
+* [pi8027/lambda-calculus](https://github.com/pi8027/lambda-calculus) - A Formalization of Typed and Untyped λ-Calculi in SSReflect-Coq and Agda2
+* [Karmaki/coq-dpdgraph](https://github.com/Karmaki/coq-dpdgraph) - Build dependency graphs between COQ objects
+* [wouter-swierstra/xmonad](https://github.com/wouter-swierstra/xmonad) - xmonad in Coq
+* [coq-io/io](https://github.com/coq-io/io) - A library for effects in Coq.
+* [arthuraa/poleiro](https://github.com/arthuraa/poleiro) - A blog about Coq
+* [smtcoq/smtcoq](https://github.com/smtcoq/smtcoq) - Communication between Coq and SAT/SMT solvers
