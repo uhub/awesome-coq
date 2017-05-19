@@ -10,8 +10,8 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [clarus/coq-chick-blog](https://github.com/clarus/coq-chick-blog) - A blog engine written and proven in Coq.
 * [mit-pdos/fscq](https://github.com/mit-pdos/fscq) - FSCQ is a certified file system written and proven in Coq
 * [jwiegley/coq-haskell](https://github.com/jwiegley/coq-haskell) - A library for formalizing Haskell types and functions in Coq
-* [Ptival/PeaCoq](https://github.com/Ptival/PeaCoq) - PeaCoq is a pretty Coq, isn't it?
 * [jwiegley/category-theory](https://github.com/jwiegley/category-theory) - A formalization of category theory in Coq for personal study and practical work
+* [Ptival/PeaCoq](https://github.com/Ptival/PeaCoq) - PeaCoq is a pretty Coq, isn't it?
 * [math-classes/math-classes](https://github.com/math-classes/math-classes) - A library of abstract interfaces for mathematical structures in Coq.
 * [coq-concurrency/pluto](https://github.com/coq-concurrency/pluto) - A web server written in Coq.
 * [c-corn/corn](https://github.com/c-corn/corn) - Coq Repository at Nijmegen
@@ -24,5 +24,5 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [wouter-swierstra/xmonad](https://github.com/wouter-swierstra/xmonad) - xmonad in Coq
 * [Karmaki/coq-dpdgraph](https://github.com/Karmaki/coq-dpdgraph) - Build dependency graphs between COQ objects
 * [coq-io/io](https://github.com/coq-io/io) - A library for effects in Coq.
-* [arthuraa/poleiro](https://github.com/arthuraa/poleiro) - A blog about Coq
 * [smtcoq/smtcoq](https://github.com/smtcoq/smtcoq) - Communication between Coq and SAT/SMT solvers
+* [arthuraa/poleiro](https://github.com/arthuraa/poleiro) - A blog about Coq
