@@ -9,8 +9,8 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [jscert/jscert](https://github.com/jscert/jscert) - A Coq specification of ECMAScript 5 (JavaScript) with verified reference interpreter
 * [clarus/coq-chick-blog](https://github.com/clarus/coq-chick-blog) - A blog engine written and proven in Coq.
 * [mit-pdos/fscq](https://github.com/mit-pdos/fscq) - FSCQ is a certified file system written and proven in Coq
-* [jwiegley/coq-haskell](https://github.com/jwiegley/coq-haskell) - A library for formalizing Haskell types and functions in Coq
 * [jwiegley/category-theory](https://github.com/jwiegley/category-theory) - A formalization of category theory in Coq for personal study and practical work
+* [jwiegley/coq-haskell](https://github.com/jwiegley/coq-haskell) - A library for formalizing Haskell types and functions in Coq
 * [Ptival/PeaCoq](https://github.com/Ptival/PeaCoq) - PeaCoq is a pretty Coq, isn't it?
 * [math-classes/math-classes](https://github.com/math-classes/math-classes) - A library of abstract interfaces for mathematical structures in Coq.
 * [coq-concurrency/pluto](https://github.com/coq-concurrency/pluto) - A web server written in Coq.
