@@ -5,6 +5,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [AbsInt/CompCert](https://github.com/AbsInt/CompCert) - The CompCert formally-verified C compiler
 * [uwplse/verdi](https://github.com/uwplse/verdi) - A framework for formally verifying distributed systems implementations in Coq
 * [uwdb/Cosette](https://github.com/uwdb/Cosette) - An automated solver for reasoning SQL equivalences
+* [CertiKOS](http://flint.cs.yale.edu/certikos/) - Certified OS Kernels
 * [math-comp/math-comp](https://github.com/math-comp/math-comp) - Mathematical Components, including the proof of the Odd Order Theorem
 * [UniMath/UniMath](https://github.com/UniMath/UniMath) - This coq library aims to formalize a substantial body of mathematics using the univalent point of view.
 * [vladimirias/Foundations](https://github.com/vladimirias/Foundations) - Development of the univalent foundations of mathematics in Coq
