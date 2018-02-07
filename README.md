@@ -19,22 +19,24 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [stepchowfun/coq-fun](https://github.com/stepchowfun/coq-fun) - A selection of Coq developments.
 * [coq-concurrency/pluto](https://github.com/coq-concurrency/pluto) - A web server written in Coq.
 * [DDCSF/iron](https://github.com/DDCSF/iron) - Coq formalizations of functional languages.
-* [c-corn/corn](https://github.com/c-corn/corn) - Coq Repository at Nijmegen
 * [uwplse/verdi-raft](https://github.com/uwplse/verdi-raft) - An implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework
+* [c-corn/corn](https://github.com/c-corn/corn) - Coq Repository at Nijmegen
+* [DistributedComponents/disel](https://github.com/DistributedComponents/disel) - Distributed Separation Logic: a framework for compositional verification of distributed protocols and their implementations.
 * [coq-ext-lib/coq-ext-lib](https://github.com/coq-ext-lib/coq-ext-lib) - A library of Coq definitions, theorems, and tactics.
 * [cmeiklejohn/distributed-data-structures](https://github.com/cmeiklejohn/distributed-data-structures) - Distributed Data Structures in Coq
+* [vellvm/vellvm](https://github.com/vellvm/vellvm) - The Vellvm II coq development.
 * [pirapira/evmverif](https://github.com/pirapira/evmverif) - An EVM code verification framework in Coq
 * [GeoCoq/GeoCoq](https://github.com/GeoCoq/GeoCoq) - A formalization of geometry in Coq based on Tarski's axiom system
 * [wouter-swierstra/xmonad](https://github.com/wouter-swierstra/xmonad) - xmonad in Coq
-* [coq-io/io](https://github.com/coq-io/io) - A library for effects in Coq.
-* [tchajed/coq-tricks](https://github.com/tchajed/coq-tricks) - Tricks you wish the Coq manual told you
 * [pi8027/lambda-calculus](https://github.com/pi8027/lambda-calculus) - A Formalization of Typed and Untyped λ-Calculi in SSReflect-Coq and Agda2
+* [tchajed/coq-tricks](https://github.com/tchajed/coq-tricks) - Tricks you wish the Coq manual told you
 * [Karmaki/coq-dpdgraph](https://github.com/Karmaki/coq-dpdgraph) - Build dependency graphs between COQ objects
+* [coq-io/io](https://github.com/coq-io/io) - A library for effects in Coq.
 * [ilyasergey/pnp](https://github.com/ilyasergey/pnp) - Lecture notes for a short course on proving/programming in Coq via SSReflect.
-* [vellvm/vellvm](https://github.com/vellvm/vellvm) - The Vellvm II coq development.
-* [MichaelBurge/pornview](https://github.com/MichaelBurge/pornview) - Porn browser formally-verified in Coq
 * [arthuraa/poleiro](https://github.com/arthuraa/poleiro) - A blog about Coq
+* [MichaelBurge/pornview](https://github.com/MichaelBurge/pornview) - Porn browser formally-verified in Coq
 * [dschepler/coq-sequent-calculus](https://github.com/dschepler/coq-sequent-calculus) - Coq formalizations of Sequent Calculus, Natural Deduction, etc. systems for propositional logic
+* [certichain/toychain](https://github.com/certichain/toychain) - A minimalistic blockchain consensus implemented and verified in Coq
 * [smtcoq/smtcoq](https://github.com/smtcoq/smtcoq) - Communication between Coq and SAT/SMT solvers
 * [vladimirias/Foundations](https://github.com/vladimirias/Foundations) - Development of the univalent foundations of mathematics in Coq
 * [math-comp/math-comp](https://github.com/math-comp/math-comp) - Mathematical Components, including the proof of the Odd Order Theorem
