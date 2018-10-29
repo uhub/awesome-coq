@@ -13,36 +13,37 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [clarus/coq-chick-blog](https://github.com/clarus/coq-chick-blog) - A blog engine written and proven in Coq.
 * [QuickChick/QuickChick](https://github.com/QuickChick/QuickChick) - Randomized Property-Based Testing Plugin for Coq
 * [jwiegley/coq-haskell](https://github.com/jwiegley/coq-haskell) - A library for formalizing Haskell types and functions in Coq
-* [coq-community/math-classes](https://github.com/coq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq.
 * [tchajed/coq-tricks](https://github.com/tchajed/coq-tricks) - Tricks you wish the Coq manual told you
+* [coq-community/math-classes](https://github.com/coq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq.
 * [Ptival/PeaCoq](https://github.com/Ptival/PeaCoq) - PeaCoq is a pretty Coq, isn't it?
 * [uwplse/verdi-raft](https://github.com/uwplse/verdi-raft) - An implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework
+* [amintimany/Categories](https://github.com/amintimany/Categories) - A formalization of category theory in the Coq proof assistant.
 * [stepchowfun/proofs](https://github.com/stepchowfun/proofs) - A selection of formal developments in Coq.
 * [discus-lang/iron](https://github.com/discus-lang/iron) - Coq formalizations of functional languages.
-* [amintimany/Categories](https://github.com/amintimany/Categories) - A formalization of category theory in the Coq proof assistant.
 * [vellvm/vellvm](https://github.com/vellvm/vellvm) - The Vellvm II coq development.
+* [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 * [coq-concurrency/pluto](https://github.com/coq-concurrency/pluto) - A web server written in Coq.
 * [coq-community/corn](https://github.com/coq-community/corn) - Coq Repository at Nijmegen
 * [DistributedComponents/disel](https://github.com/DistributedComponents/disel) - Distributed Separation Logic: a framework for compositional verification of distributed protocols and their implementations.
 * [coq-ext-lib/coq-ext-lib](https://github.com/coq-ext-lib/coq-ext-lib) - A library of Coq definitions, theorems, and tactics.
 * [GeoCoq/GeoCoq](https://github.com/GeoCoq/GeoCoq) - A formalization of geometry in Coq based on Tarski's axiom system
 * [certichain/toychain](https://github.com/certichain/toychain) - A minimalistic blockchain consensus implemented and verified in Coq
-* [cmeiklejohn/distributed-data-structures](https://github.com/cmeiklejohn/distributed-data-structures) - Distributed Data Structures in Coq
 * [pirapira/evmverif](https://github.com/pirapira/evmverif) - An EVM code verification framework in Coq
+* [cmeiklejohn/distributed-data-structures](https://github.com/cmeiklejohn/distributed-data-structures) - Distributed Data Structures in Coq
 * [Karmaki/coq-dpdgraph](https://github.com/Karmaki/coq-dpdgraph) - Build dependency graphs between COQ objects
-* [pi8027/lambda-calculus](https://github.com/pi8027/lambda-calculus) - A Formalization of Typed and Untyped λ-Calculi in SSReflect-Coq and Agda2
 * [ilyasergey/pnp](https://github.com/ilyasergey/pnp) - Lecture notes for a short course on proving/programming in Coq via SSReflect.
+* [pi8027/lambda-calculus](https://github.com/pi8027/lambda-calculus) - A Formalization of Typed and Untyped λ-Calculi in SSReflect-Coq and Agda2
 * [wouter-swierstra/xmonad](https://github.com/wouter-swierstra/xmonad) - xmonad in Coq
 * [coq-io/io](https://github.com/coq-io/io) - A library for effects in Coq.
 * [arthuraa/poleiro](https://github.com/arthuraa/poleiro) - A blog about Coq
 * [MichaelBurge/pornview](https://github.com/MichaelBurge/pornview) - Porn browser formally-verified in Coq
 * [dschepler/coq-sequent-calculus](https://github.com/dschepler/coq-sequent-calculus) - Coq formalizations of Sequent Calculus, Natural Deduction, etc. systems for propositional logic
-* [vrahli/NuprlInCoq](https://github.com/vrahli/NuprlInCoq) - Implementation of Nuprl's type theory in Coq
 * [tezos/tezoscoq](https://github.com/tezos/tezoscoq) - working with coq and tezos
 * [Template-Coq/template-coq](https://github.com/Template-Coq/template-coq) - Reflection library for Coq
+* [vrahli/NuprlInCoq](https://github.com/vrahli/NuprlInCoq) - Implementation of Nuprl's type theory in Coq
 * [coq-contribs/coq-in-coq](https://github.com/coq-contribs/coq-in-coq) - A formalisation of the Calculus of Constructions
-* [andrejbauer/dedekind-reals](https://github.com/andrejbauer/dedekind-reals) - A formalization of the Dedekind reals in Coq
 * [uds-psl/autosubst](https://github.com/uds-psl/autosubst) - Automation for de Bruijn syntax and substitution in Coq
+* [andrejbauer/dedekind-reals](https://github.com/andrejbauer/dedekind-reals) - A formalization of the Dedekind reals in Coq
 * [gallais/parseque](https://github.com/gallais/parseque) - Total Parser Combinators in Coq
 * [coq-ext-lib/coq-compile](https://github.com/coq-ext-lib/coq-compile) - A compiler for Coq
 * [bmsherman/topology](https://github.com/bmsherman/topology) - Formal topology (and some probability) in Coq
