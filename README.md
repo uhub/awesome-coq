@@ -57,3 +57,5 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [math-comp/math-comp](https://github.com/math-comp/math-comp) - Mathematical Components, including the proof of the Odd Order Theorem
 * [mit-plv/bedrock](https://github.com/mit-plv/bedrock) - Coq library for verified low-level programming
 * [aspiwack/cosa](https://github.com/aspiwack/cosa) - Coq-verified Shape Analysis
+* [Ptival/HaysTac](https://github.com/Ptival/HaysTac) - A pile of Ltac tactics that might contain the needle you're looking for. Oriented around nameless tactics programming.
+* [uwplse/StructTact](https://github.com/uwplse/StructTact) - Another library oriented around avoiding breakage due to naming changes.
