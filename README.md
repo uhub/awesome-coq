@@ -74,3 +74,4 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [aspiwack/cosa](https://github.com/aspiwack/cosa) - Coq-verified Shape Analysis
 * [Ptival/HaysTac](https://github.com/Ptival/HaysTac) - A pile of Ltac tactics that might contain the needle you're looking for. Oriented around nameless tactics programming.
 * [uwplse/StructTact](https://github.com/uwplse/StructTact) - Another library oriented around avoiding breakage due to naming changes.
+* [EugeneLoy/coq_jupyter](https://github.com/EugeneLoy/coq_jupyter) - Jupyter Notebook kernel for Coq
