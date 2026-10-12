@@ -126,8 +126,8 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [math-comp/math-comp](https://github.com/math-comp/math-comp) - Mathematical Components
 * [stepchowfun/proofs](https://github.com/stepchowfun/proofs) - My personal repository of formally verified mathematics.
 * [rocq-community/fourcolor](https://github.com/rocq-community/fourcolor) - Formal proof of the Four Color Theorem [maintainer=@ybertot]
-* [UniMath/Foundations](https://github.com/UniMath/Foundations) - Voevodsky's original development of the univalent foundations of mathematics in Coq
 * [math-comp/analysis](https://github.com/math-comp/analysis) - Mathematical Components compliant Analysis Library
+* [UniMath/Foundations](https://github.com/UniMath/Foundations) - Voevodsky's original development of the univalent foundations of mathematics in Coq
 * [LogicalAtomist/principia-rewrite](https://github.com/LogicalAtomist/principia-rewrite) - The Principia Rewrite
 * [GeoCoq/GeoCoq](https://github.com/GeoCoq/GeoCoq) - A formalization of geometry in Coq based on Tarski's axiom system
 * [rocq-community/math-classes](https://github.com/rocq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters,@Lysxia]
@@ -137,8 +137,8 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [rocq-community/hydra-battles](https://github.com/rocq-community/hydra-battles) - Variations on Kirby & Paris' hydra battles and other entertaining math in Coq (collaborative, documented, includes exercises) [maintainer=@Casteran]
 * [affeldt-aist/infotheo](https://github.com/affeldt-aist/infotheo) - A Rocq formalization of information theory and linear error-correcting codes
 * [rocq-community/coqeal](https://github.com/rocq-community/coqeal) - The Coq Effective Algebra Library [maintainers=@CohenCyril,@proux01]
-* [rocq-community/coq-100-theorems](https://github.com/rocq-community/coq-100-theorems) - Statements of famous theorems proven in Coq [maintainer=@jmadiot]
 * [meithecatte/busycoq](https://github.com/meithecatte/busycoq) - Busy Beaver deciders backed by Coq proof
+* [rocq-community/coq-100-theorems](https://github.com/rocq-community/coq-100-theorems) - Statements of famous theorems proven in Coq [maintainer=@jmadiot]
 * [choukh/Set-Theory](https://github.com/choukh/Set-Theory) - A formalization of the textbook Elements of Set Theory
 * [vladimirias/Foundations](https://github.com/vladimirias/Foundations) - Voevodsky's original development of the univalent foundations of mathematics in Coq
 * [jtassarotti/coq-proba](https://github.com/jtassarotti/coq-proba) - A Probability Theory Library for the Coq Theorem Prover
@@ -166,8 +166,8 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [rocq-community/bignums](https://github.com/rocq-community/bignums) - Coq library of arbitrarily large numbers, providing BigN, BigZ, BigQ that used to be part of the standard library [maintainers=@proux01,@erikmd]
 * [sudgy/math-from-nothing](https://github.com/sudgy/math-from-nothing) - Developing mathematics in Rocq from the ground up
 * [Coq-Polyhedra/Coq-Polyhedra](https://github.com/Coq-Polyhedra/Coq-Polyhedra) - Formalizing convex polyhedra in Coq
-* [Yosuke-Ito-345/Actuary](https://github.com/Yosuke-Ito-345/Actuary) - Formalization of the basic actuarial mathematics using Coq
 * [choukh/CategoryTheory](https://github.com/choukh/CategoryTheory) - A Coq formalization of the textbook Categories and Toposes: Visualized and Explained
+* [Yosuke-Ito-345/Actuary](https://github.com/Yosuke-Ito-345/Actuary) - Formalization of the basic actuarial mathematics using Coq
 * [kai-qu/linear-logic](https://github.com/kai-qu/linear-logic) - An encoding of linear logic in Coq with minimal Sokoban and blocks world examples
 * [rocq-community/HighSchoolGeometry](https://github.com/rocq-community/HighSchoolGeometry) - Geometry in Coq for French high school [maintainer=@thery]
 * [styzystyzy/Axiomatic_Set_Theory](https://github.com/styzystyzy/Axiomatic_Set_Theory) - Formalization of Axiomatic Set Theory in Coq
@@ -188,8 +188,8 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [barry-jay-personal/tree-calculus](https://github.com/barry-jay-personal/tree-calculus) - Proofs in Coq for the book Reflective Programs in Tree Calculus
 * [LPCIC/coq-elpi](https://github.com/LPCIC/coq-elpi) - Rocq plugin embedding Elpi
 * [jwiegley/coq-haskell](https://github.com/jwiegley/coq-haskell) - A library for formalizing Haskell types and functions in Coq
-* [smtcoq/smtcoq](https://github.com/smtcoq/smtcoq) - Communication between Coq and SAT/SMT solvers
 * [mit-plv/kami](https://github.com/mit-plv/kami) - A Platform for High-Level Parametric Hardware Specification and its Modular Verification
+* [smtcoq/smtcoq](https://github.com/smtcoq/smtcoq) - Communication between Coq and SAT/SMT solvers
 * [discus-lang/iron](https://github.com/discus-lang/iron) - Coq formalizations of functional languages.
 * [neelsomani/vericuda](https://github.com/neelsomani/vericuda) - A pipeline that translates Rust GPU code into formal Coq models, as a foundation for memory model proofs
 * [project-oak/silveroak](https://github.com/project-oak/silveroak) - Formal specification and verification of hardware, especially for security and privacy. *(archived)*
@@ -203,8 +203,8 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [imdea-software/htt](https://github.com/imdea-software/htt) - Hoare Type Theory
 * [pi8027/lambda-calculus](https://github.com/pi8027/lambda-calculus) - A Formalization of Typed and Untyped λ-Calculi in Coq and Agda2
 * [affeldt-aist/monae](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning in Rocq
-* [rocq-archive/coq-in-coq](https://github.com/rocq-archive/coq-in-coq) - A formalisation of the Calculus of Constructions
 * [rocq-community/autosubst](https://github.com/rocq-community/autosubst) - Automation for de Bruijn syntax and substitution in Coq [maintainers=@RalfJung,@co-dan]
+* [rocq-archive/coq-in-coq](https://github.com/rocq-archive/coq-in-coq) - A formalisation of the Calculus of Constructions
 * [mit-plv/bedrock](https://github.com/mit-plv/bedrock) - Coq library for verified low-level programming
 * [snu-sf/paco](https://github.com/snu-sf/paco) - A Coq library for parametric coinduction
 * [lthms/FreeSpec](https://github.com/lthms/FreeSpec) - A framework for implementing and certifying impure computations in Coq
@@ -213,54 +213,54 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [uwplse/pumpkin-pi](https://github.com/uwplse/pumpkin-pi) - An extension to PUMPKIN PATCH with support for proof repair across type equivalences.
 * [CertiRocq/VeriFFI](https://github.com/CertiRocq/VeriFFI) - VeriFFI: Verified Foreign Function Interface for connecting Coq programs to C programs at the operational and specification/verification levels; part of CertiCoq project
 * [foreverbell/verified](https://github.com/foreverbell/verified) - Coq formalizations and proofs of (data) structures and algorithms.
-* [vrahli/NuprlInCoq](https://github.com/vrahli/NuprlInCoq) - Implementation of Nuprl's type theory in Coq
 * [wouter-swierstra/xmonad](https://github.com/wouter-swierstra/xmonad) - xmonad in Coq
+* [vrahli/NuprlInCoq](https://github.com/vrahli/NuprlInCoq) - Implementation of Nuprl's type theory in Coq
 * [rocq-community/paramcoq](https://github.com/rocq-community/paramcoq) - Old Coq plugin for parametricity [maintainer=@ppedrot]
 * [snu-sf/promising-coq](https://github.com/snu-sf/promising-coq) - The Coq development of A Promising Semantics for Relaxed-Memory Concurrency
-* [logsem/clutch](https://github.com/logsem/clutch) - Probabilistic separation logics for verifying higher-order probabilistic programs.
 * [takanuva/cps](https://github.com/takanuva/cps) - A formalization of continuation-passing style calculi in Coq [WIP]
+* [logsem/clutch](https://github.com/logsem/clutch) - Probabilistic separation logics for verifying higher-order probabilistic programs.
 * [EasyCrypt/certicrypt](https://github.com/EasyCrypt/certicrypt) - CertiCrypt Coq Framework
 * [Lysxia/system-F](https://github.com/Lysxia/system-F) - Formalization of the polymorphic lambda calculus and its parametricity theorem
 * [math-comp/algebra-tactics](https://github.com/math-comp/algebra-tactics) - Ring, field, lra, nra, and psatz tactics for Mathematical Components
 * [Blaisorblade/dot-iris](https://github.com/Blaisorblade/dot-iris) - Scala Step-by-Step: Soundness for DOT with Step-Indexed Logical Relations in Iris — Coq Formalization
 * [fblanqui/color](https://github.com/fblanqui/color) - Coq library on rewriting theory and termination
 * [gangtan/CPUmodels](https://github.com/gangtan/CPUmodels) - GoNative project: formal machines models in Coq
-* [imdea-software/fcsl-pcm](https://github.com/imdea-software/fcsl-pcm) - Partial Commutative Monoids
 * [CoqHott/logrel-coq](https://github.com/CoqHott/logrel-coq) - Logical Relation for MLTT in Coq
+* [imdea-software/fcsl-pcm](https://github.com/imdea-software/fcsl-pcm) - Partial Commutative Monoids
 * [VeriNum/vcfloat](https://github.com/VeriNum/vcfloat) - VCFloat: A Unified Coq Framework for Verifying C Programs with Floating-Point Computations
 * [reynir/Brainfuck](https://github.com/reynir/Brainfuck) - Brainfuck formalized in Coq
+* [rocq-community/trocq](https://github.com/rocq-community/trocq) - A modular parametricity plugin for proof transfer in Coq [maintainers=@CohenCyril,@ecranceMERCE,@amahboubi,@lweqx,@MysaaJava]
+* [weakmemory/imm](https://github.com/weakmemory/imm) - Intermediate Memory Model (IMM) and compilation correctness proofs for it
 * [huynhtrankhanh/CoqCP](https://github.com/huynhtrankhanh/CoqCP) - We combat sloppy arguments in competitive programming and raise the standard of rigor
 * [math-comp/mczify](https://github.com/math-comp/mczify) - Micromega tactics for Mathematical Components
 * [rocq-community/dblib](https://github.com/rocq-community/dblib) - Coq library for working with de Bruijn indices [maintainer=@KevOrr]
-* [rocq-community/trocq](https://github.com/rocq-community/trocq) - A modular parametricity plugin for proof transfer in Coq [maintainers=@CohenCyril,@ecranceMERCE,@amahboubi,@lweqx,@MysaaJava]
-* [weakmemory/imm](https://github.com/weakmemory/imm) - Intermediate Memory Model (IMM) and compilation correctness proofs for it
 * [acorrenson/SATurne](https://github.com/acorrenson/SATurne) - Tiny verified SAT-solver
 * [pa-ba/calc-comp](https://github.com/pa-ba/calc-comp) - Coq proofs for the paper "Calculating Correct Compilers"
 * [rafaelcgs10/W-in-Coq](https://github.com/rafaelcgs10/W-in-Coq) - This is a Coq formalization of Damas-Milner type system and its algorithm W.
-* [dboulytchev/miniKanren-coq](https://github.com/dboulytchev/miniKanren-coq) - A certified semantics for relational programming workout.
-* [rocq-community/lemma-overloading](https://github.com/rocq-community/lemma-overloading) - Libraries demonstrating design patterns for programming and proving with canonical structures in Coq [maintainer=@anton-trunov]
-* [arthuraa/deriving](https://github.com/arthuraa/deriving) - Class instances for Coq inductive types with little boilerplate
 * [damien-pous/coinduction](https://github.com/damien-pous/coinduction) - coinduction library for Coq
-* [rocq-community/atbr](https://github.com/rocq-community/atbr) - Coq library and tactic for deciding Kleene algebras [maintainer=@tchajed]
-* [lastland/ClairvoyanceMonad](https://github.com/lastland/ClairvoyanceMonad) - The Coq formalization of the paper Reasoning about the garden of forking paths.
-* [pi8027/stablesort](https://github.com/pi8027/stablesort) - Stable sort algorithms and their stability proofs in Rocq
+* [dboulytchev/miniKanren-coq](https://github.com/dboulytchev/miniKanren-coq) - A certified semantics for relational programming workout.
+* [arthuraa/deriving](https://github.com/arthuraa/deriving) - Class instances for Coq inductive types with little boilerplate
+* [rocq-community/lemma-overloading](https://github.com/rocq-community/lemma-overloading) - Libraries demonstrating design patterns for programming and proving with canonical structures in Coq [maintainer=@anton-trunov]
 * [sweirich/graded-haskell](https://github.com/sweirich/graded-haskell) - Graded Dependent Type systems
-* [verif-scop/PolCert](https://github.com/verif-scop/PolCert) - A verified polyhedral scheduling validator in Coq. Vibing proving in progress: https://github.com/Hughshine/PolCert/tree/artifact/cpp27-anonymous-v10. Codex dev doc: https://github.com/verif-scop/polcert-dev/
+* [pi8027/stablesort](https://github.com/pi8027/stablesort) - Stable sort algorithms and their stability proofs in Rocq
+* [rocq-community/atbr](https://github.com/rocq-community/atbr) - Coq library and tactic for deciding Kleene algebras [maintainer=@tchajed]
 * [bobatkey/system-f-parametricity-model](https://github.com/bobatkey/system-f-parametricity-model) - A Model of Relationally Parametric System F in Coq
+* [lastland/ClairvoyanceMonad](https://github.com/lastland/ClairvoyanceMonad) - The Coq formalization of the paper Reasoning about the garden of forking paths.
+* [verif-scop/PolCert](https://github.com/verif-scop/PolCert) - End-to-end Verified Polyhedral Compilation
 * [dunnl/tealeaves](https://github.com/dunnl/tealeaves) - A Coq library for abstract syntactical reasoning
 * [CertiKOS/coqrel](https://github.com/CertiKOS/coqrel) - Binary logical relations library for the Coq proof assistant
 * [jwiegley/coq-cds4ltl](https://github.com/jwiegley/coq-cds4ltl) - A formal verification of Linear Temporal Logic in Coq
 * [Matafou/LibHyps](https://github.com/Matafou/LibHyps) - A Coq library providing tactics to deal with hypothesis
+* [rems-project/islaris](https://github.com/rems-project/islaris) - isla coq infrastructure
 * [sifive/ProcKami](https://github.com/sifive/ProcKami) - Kami based processor implementations and specifications
 * [xavierleroy/canonical-binary-tries](https://github.com/xavierleroy/canonical-binary-tries) - Coq development accompanying the paper "Efficient Extensional Binary Tries"
 * [charguer/formalmetacoq](https://github.com/charguer/formalmetacoq) - Arthur's Formal Metatheory in Coq
-* [rems-project/islaris](https://github.com/rems-project/islaris) - isla coq infrastructure
+* [aslanix/SmallStepNI](https://github.com/aslanix/SmallStepNI) - Mechanization of a noninterference proof for a toy imperative language with small-step semantics in Coq
+* [CertiGraph/CertiGraph](https://github.com/CertiGraph/CertiGraph) - A library for verifying graph-manipulating programs. Powered by Coq and VST. Compatible with CompCert.
 * [Huxpro/WasmCert](https://github.com/Huxpro/WasmCert) - A (in-development) Coq mechanization of WebAssembly specification.
 * [jwiegley/coq-lattice](https://github.com/jwiegley/coq-lattice) - A reflection-based proof tactic for lattices in Coq
 * [LS-Lab/Coq-dL](https://github.com/LS-Lab/Coq-dL) - A formally verified implementation of differential dynamic logic in Coq
 * [rodrigogribeiro/unification](https://github.com/rodrigogribeiro/unification) - Formalisation of a type unification algorithm in Coq proof assistant.
-* [aslanix/SmallStepNI](https://github.com/aslanix/SmallStepNI) - Mechanization of a noninterference proof for a toy imperative language with small-step semantics in Coq
-* [CertiGraph/CertiGraph](https://github.com/CertiGraph/CertiGraph) - A library for verifying graph-manipulating programs. Powered by Coq and VST. Compatible with CompCert.
 * [micro-policies/micro-policies-coq](https://github.com/micro-policies/micro-policies-coq) - Coq formalization accompanying the paper: Micro-Policies: A Framework for Verified, Tag-Based Security Monitors
 * [heades/System-F-Coq](https://github.com/heades/System-F-Coq) - System F in coq.
 * [Ptival/HaysTac](https://github.com/Ptival/HaysTac) - A pile of Ltac tactics that might contain the needle you're looking for...
@@ -280,6 +280,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [lulinchen/cnn_open](https://github.com/lulinchen/cnn_open) - A hardware implementation of CNN, written by Verilog and synthesized on FPGA
 * [mit-pdos/fscq](https://github.com/mit-pdos/fscq) - FSCQ is a certified file system written and proven in Coq
 * [hacspec/hacspec](https://github.com/hacspec/hacspec) - Please see https://github.com/hacspec/hax *(archived)*
+* [plclub/sf-in-lean](https://github.com/plclub/sf-in-lean) - Development repo for translating Software Foundations to Lean
 * [accordproject/ergo](https://github.com/accordproject/ergo) - Programming Language for Smart Legal Contracts *(archived)*
 * [mit-plv/fiat](https://github.com/mit-plv/fiat) - Mostly Automated Synthesis of Correct-by-Construction Programs
 * [rocq-archive/coq-serapi](https://github.com/rocq-archive/coq-serapi) - Coq Protocol Playground with Se(xp)rialization of Internal Structures.
@@ -288,12 +289,12 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [UniMath/TypeTheory](https://github.com/UniMath/TypeTheory) - The mathematical study of type theories, in univalent foundations
 * [PrimeMHD/FPGA_ThreeLevelStorage](https://github.com/PrimeMHD/FPGA_ThreeLevelStorage) - 【原创，已被编入官方教材】Three-level storage subsystem(SD+DDR2 SDRAM+Cache), based on Nexys4 FPGA board. 同济大学计算机系统结构课程设计，FPGA三级存储子系统。
 * [inQWIRE/QWIRE](https://github.com/inQWIRE/QWIRE) - A quantum circuit language and formal verification tool
-* [jonleivent/mindless-coding](https://github.com/jonleivent/mindless-coding) - Mindless, verified (erasably) coding using dependent types
-* [Ptival/PeaCoq](https://github.com/Ptival/PeaCoq) - PeaCoq is a pretty Coq, isn't it?
 * [inQWIRE/SQIR](https://github.com/inQWIRE/SQIR) - A Small Quantum Intermediate Representation
 * [logsem/iris-tutorial](https://github.com/logsem/iris-tutorial)
-* [jwiegley/coq-pipes](https://github.com/jwiegley/coq-pipes)
+* [jonleivent/mindless-coding](https://github.com/jonleivent/mindless-coding) - Mindless, verified (erasably) coding using dependent types
+* [Ptival/PeaCoq](https://github.com/Ptival/PeaCoq) - PeaCoq is a pretty Coq, isn't it?
 * [rocq-community/coq-dpdgraph](https://github.com/rocq-community/coq-dpdgraph) - Build dependency graphs between Coq objects [maintainers=@Karmaki,@ybertot]
+* [jwiegley/coq-pipes](https://github.com/jwiegley/coq-pipes)
 * [TheoWinterhalter/formal-type-theory](https://github.com/TheoWinterhalter/formal-type-theory) - Formalising Type Theory in a modular way for translations between type theories
 * [TiarkRompf/collapsing-towers](https://github.com/TiarkRompf/collapsing-towers) - Collapsing Towers of Interpreters
 * [EugeneLoy/coq_jupyter](https://github.com/EugeneLoy/coq_jupyter) - Jupyter kernel for Coq
@@ -302,13 +303,12 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [robbertkrebbers/ch2o](https://github.com/robbertkrebbers/ch2o)
 * [TiarkRompf/minidot](https://github.com/TiarkRompf/minidot) - Dependent Object Types (DOT), bottom up
 * [coq-concurrency/pluto](https://github.com/coq-concurrency/pluto) - A web server written in Coq.
-* [IBM/FormalML](https://github.com/IBM/FormalML) - Formalization of Machine Learning Theory with Applications to Program Synthesis
-* [ml4tp/gamepad](https://github.com/ml4tp/gamepad) - A Learning Environment for Theorem Proving
 * [NVlabs/ptxmemorymodel](https://github.com/NVlabs/ptxmemorymodel)
 * [plclub/metalib](https://github.com/plclub/metalib) - The Penn Locally Nameless Metatheory Library
+* [IBM/FormalML](https://github.com/IBM/FormalML) - Formalization of Machine Learning Theory with Applications to Program Synthesis
+* [ml4tp/gamepad](https://github.com/ml4tp/gamepad) - A Learning Environment for Theorem Proving
 * [gtjennings1/UPDuino_v2_0](https://github.com/gtjennings1/UPDuino_v2_0) - UPDuino v2.0 - PCB Design Files, Designs, Documentation
 * [awslabs/aws-lc-verification](https://github.com/awslabs/aws-lc-verification) - This repository contains specifications, proof scripts, and other artifacts required to formally verify portions of AWS libcrypto. Formal verification is used to locate bugs and increase assurance of the correctness and security of the library.
-* [plclub/sf-in-lean](https://github.com/plclub/sf-in-lean) - Development repo for translating Software Foundations to Lean
 * [sfja/sfja](https://github.com/sfja/sfja) - SoftwareFoundations(Ja)
 * [codyroux/name-the-biggest-number](https://github.com/codyroux/name-the-biggest-number)
 * [samuelgruetter/dot-calculus](https://github.com/samuelgruetter/dot-calculus) - Formalization of the Dependent Object Types (DOT) calculus
@@ -323,48 +323,48 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [tcarstens/verlang](https://github.com/tcarstens/verlang)
 * [rocq-community/parseque](https://github.com/rocq-community/parseque) - Total Parser Combinators in Coq [maintainer=@womeier]
 * [Lysxia/profunctor-monad](https://github.com/Lysxia/profunctor-monad) - Bidirectional programming in Haskell with monadic profunctors
+* [QinxiangCao/QualifiedCProgramming](https://github.com/QinxiangCao/QualifiedCProgramming) - QCP (Qualified C Programming), a C program verification tool
 * [sweirich/replib](https://github.com/sweirich/replib) - Replib: generic programming & Unbound: generic treatment of binders
 * [Veridise/Coda](https://github.com/Veridise/Coda)
 * [ChezJrk/verified-scheduling](https://github.com/ChezJrk/verified-scheduling)
 * [garrigue/certint](https://github.com/garrigue/certint) - A Certified Interpreter for ML with Structural Polymorphism
+* [UCSD-PL/proverbot9001](https://github.com/UCSD-PL/proverbot9001)
 * [yugithub/OFDM-baseband](https://github.com/yugithub/OFDM-baseband) - Verilog实现OFDM基带
 * [Lysxia/advent-of-coq-2021](https://github.com/Lysxia/advent-of-coq-2021)
-* [QinxiangCao/QualifiedCProgramming](https://github.com/QinxiangCao/QualifiedCProgramming) - QCP (Qualified C Programming), a C program verification tool
-* [UCSD-PL/proverbot9001](https://github.com/UCSD-PL/proverbot9001)
+* [rocq-prover/stdlib](https://github.com/rocq-prover/stdlib) - Stdlib for the Rocq Prover
+* [pirapira/dry-analyzer](https://github.com/pirapira/dry-analyzer) - Dr. Y's Ethereum Contract Analyzer
 * [plclub/cis670-16fa](https://github.com/plclub/cis670-16fa) - Advanced Topics in Programming Languages, Penn CIS 670, Fall 2016
 * [dbp/howtoproveacompiler](https://github.com/dbp/howtoproveacompiler) - Writeup that goes along with this:
 * [inQWIRE/QuantumLib](https://github.com/inQWIRE/QuantumLib) - Coq library for reasoning about quantum programs
-* [pirapira/dry-analyzer](https://github.com/pirapira/dry-analyzer) - Dr. Y's Ethereum Contract Analyzer
-* [rocq-prover/stdlib](https://github.com/rocq-prover/stdlib) - Stdlib for the Rocq Prover
 * [HIPERFIT/contracts](https://github.com/HIPERFIT/contracts) - Symbolic financial contract EDSL
 * [liufengyun/stoic](https://github.com/liufengyun/stoic) - a capability-based system
 * [OUPL/MLCert](https://github.com/OUPL/MLCert) - Certified Machine Learning
 * [RSPwFPGAs/opae-xilinx](https://github.com/RSPwFPGAs/opae-xilinx) - OPAE porting to Xilinx FPGA devices.
-* [rems-project/archsem](https://github.com/rems-project/archsem) - Rocq framework to define the semantics of CPU architectures
 * [smtcoq/sniper](https://github.com/smtcoq/sniper)
+* [rems-project/archsem](https://github.com/rems-project/archsem) - Rocq framework to define the semantics of CPU architectures
 * [rocq-archive/stdlib2](https://github.com/rocq-archive/stdlib2)
 * [tlringer/proof-demos](https://github.com/tlringer/proof-demos) - Repository where I'll collect some demos of proof assistants that I show to various people in order to spread the magic
 * [bit-mips/bitmips_experiments](https://github.com/bit-mips/bitmips_experiments) - 北京理工大学 MIPS 指令集 CPU 设计系列教学实验
 * [uds-psl/coq-library-complexity](https://github.com/uds-psl/coq-library-complexity)
 * [vzaliva/helix](https://github.com/vzaliva/helix) - Formally verified operator language and rewriting engine for high-performance computing
-* [aa755/ROSCoq](https://github.com/aa755/ROSCoq) - Robots powered by Constructive Reals
+* [Beluga-lang/McTT](https://github.com/Beluga-lang/McTT) - Building A Correct-By-Construction Proof Checkers For Type Theories
 * [formal-land/garden](https://github.com/formal-land/garden) - Make your zero-knowledge circuits safe with formal verification. 🍀
+* [aa755/ROSCoq](https://github.com/aa755/ROSCoq) - Robots powered by Constructive Reals
 * [jwiegley/bytestring-fiat](https://github.com/jwiegley/bytestring-fiat) - An implementation of the Haskell ByteString library using the Fiat system from MIT
 * [Lysxia/rocq-simple-io](https://github.com/Lysxia/rocq-simple-io) - IO for Gallina
 * [vellvm/vellvm-legacy](https://github.com/vellvm/vellvm-legacy)
 * [pedagand/MPRI-2.4-DTP](https://github.com/pedagand/MPRI-2.4-DTP) - MPRI-2.4 Dependently-typed Functional Programming
-* [Beluga-lang/McTT](https://github.com/Beluga-lang/McTT) - Building A Correct-By-Construction Proof Checkers For Type Theories
+* [affeldt-aist/robot-rocq](https://github.com/affeldt-aist/robot-rocq) - Mathematics of Robotic Manipulation using Rocq and MathComp
 * [KevinHexin/FPGA-Bicubic-interpolation](https://github.com/KevinHexin/FPGA-Bicubic-interpolation) - use Verilog HDL implemente bicubic interpolation in FPGA
 * [mit-frap/spring23](https://github.com/mit-frap/spring23) - Problem Sets for MIT 6.512 Formal Reasoning About Programs, Spring 2023
 * [tchajed/coq-tla](https://github.com/tchajed/coq-tla)
 * [0xf3cd/CPU54-Pipeline](https://github.com/0xf3cd/CPU54-Pipeline) - CPU based on MIPS with 5-stage pipeline and cache, working with DDR2 memory and SD card.
-* [affeldt-aist/robot-rocq](https://github.com/affeldt-aist/robot-rocq) - Mathematics of Robotic Manipulation using Rocq and MathComp
 * [coq-quantum/CoqQ](https://github.com/coq-quantum/CoqQ)
-* [mit-plv/bbv](https://github.com/mit-plv/bbv) - Bedrock Bit Vector Library
+* [mit-plv/bbv](https://github.com/mit-plv/bbv) - Deprecated Bedrock Bit Vector Library. Example replacement: *(archived)*
+* [barry-jay-personal/typed_tree_calculus](https://github.com/barry-jay-personal/typed_tree_calculus) - types for various combinatory systems, especialy tree calculi
 * [fredfeng/CS292C](https://github.com/fredfeng/CS292C)
 * [ichistmeinname/free-proving](https://github.com/ichistmeinname/free-proving) - Resources for "One Monad to Prove Them All"
 * [rocqetry/rocqet](https://github.com/rocqetry/rocqet) - Rocqet proof language
-* [barry-jay-personal/typed_tree_calculus](https://github.com/barry-jay-personal/typed_tree_calculus) - types for various combinatory systems, especialy tree calculi
 * [mit-plv/rewriter](https://github.com/mit-plv/rewriter) - Reflective PHOAS rewriting/pattern-matching-compilation framework for simply-typed equalities and let-lifting
 * [PrincetonUniversity/DeepSpecDB](https://github.com/PrincetonUniversity/DeepSpecDB)
 * [Agnishom/lregex](https://github.com/Agnishom/lregex) - Verified and Efficient Matching of Regular Expressions with Lookaround
@@ -373,16 +373,16 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [CategoricalData/HoTT-categories](https://github.com/CategoricalData/HoTT-categories) - A category theory library built on top of Homotopy Type Theory, by Jason Gross
 * [CharlesCNorton/intel-4004-verified](https://github.com/CharlesCNorton/intel-4004-verified) - Formalizing the Intel 4004 microprocessor
 * [konne88/bagpipe](https://github.com/konne88/bagpipe) - BGP Policy Verification
-* [LLM4Rocq/miniF2F-rocq](https://github.com/LLM4Rocq/miniF2F-rocq) - A Rocq version of the miniF2F dataset
 * [max2468tw/IC_Lab](https://github.com/max2468tw/IC_Lab) - NCTU 2018 Spring Integrated Circuit Design Laboratory
+* [kcrary/istari](https://github.com/kcrary/istari)
+* [LLM4Rocq/miniF2F-rocq](https://github.com/LLM4Rocq/miniF2F-rocq) - A Rocq version of the miniF2F dataset
 * [QinxiangCao/UnifySL](https://github.com/QinxiangCao/UnifySL)
+* [RiccardoBiosas/LeanGPT](https://github.com/RiccardoBiosas/LeanGPT) - Experiments with interactive theorem provers, LLMs and formal systems
 * [ynot-harvard/ynot](https://github.com/ynot-harvard/ynot) - The Ynot Project source code.
 * [dricketts/teaching-concurrency](https://github.com/dricketts/teaching-concurrency) - Specifications and safety proofs in different tools of a simple concurrent algorithm
 * [Javran/Thinking-dumps](https://github.com/Javran/Thinking-dumps) - This repo keeps track of my codes, answers and thinkings when exploring books.
-* [kcrary/istari](https://github.com/kcrary/istari)
 * [kunalg123/riscv_workshop_collaterals](https://github.com/kunalg123/riscv_workshop_collaterals) - This repository is created for conducting RISC-V 5-day workshops
-* [MudroadWhite/Neo-Principia](https://github.com/MudroadWhite/Neo-Principia) - Continuation on formalizing Principia Mathematica
-* [RiccardoBiosas/LeanGPT](https://github.com/RiccardoBiosas/LeanGPT) - Experiments with interactive theorem provers, LLMs and formal systems
+* [MudroadWhite/Neo-Principia](https://github.com/MudroadWhite/Neo-Principia) - Continuation to Principia Rewrite
 * [rocq-archive/automata](https://github.com/rocq-archive/automata) - Beginning of formal language theory
 * [uwplse/cheerios](https://github.com/uwplse/cheerios) - Formally verified Coq serialization library with support for extraction to OCaml
 * [ankitku/TAL0](https://github.com/ankitku/TAL0) - Based on paper by Greg Morrisett , TAL-0 is the design of a RISC-style typed assembly language which focuses on control-flow safety.
@@ -408,6 +408,7 @@ A curated list of awesome Coq frameworks, libraries and software.
 * [bloomberg/game-trees](https://github.com/bloomberg/game-trees) - Functions and proofs about game trees in Rocq, implemented as rose trees.
 * [daniellustig/pipecheck](https://github.com/daniellustig/pipecheck)
 * [dongjaelee1/refinement-tutorial](https://github.com/dongjaelee1/refinement-tutorial) - Tutorial for refinement based verification
+* [joom/rocqman](https://github.com/joom/rocqman) - A Pacman implementation in Rocq, extracted to C++ via Crane.
 * [julesjacobs/cgraphs](https://github.com/julesjacobs/cgraphs) - Deadlock freedom by type checking
 * [katamaran-project/katamaran](https://github.com/katamaran-project/katamaran) - Katamaran is a semi-automated separation logic verifier for the Sail specification language. It works on an embedded version of Sail called μSail and verifies separation logic-based contracts of functions by generating (succinct) first-order verification conditions.
 * [l2ctsinghua/l2c](https://github.com/l2ctsinghua/l2c)
